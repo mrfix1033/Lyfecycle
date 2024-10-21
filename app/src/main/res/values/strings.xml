@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lyfecycle</string>
+    <string name="height">Рост (см)</string>
+    <string name="weight">Вес (кг)</string>
+    <string name="calculate">Рассчитать</string>
+    <string name="error">Ошибка</string>
+    <string name="authors"><![CDATA[mrfix1033 & друк]]></string>
+    <string name="very_low_bmi">Анорексия... Ты знаешь что-нибудь об этом?</string>
+    <string name="low_bmi">Думаю, тебе стоит немного подкачаться</string>
+    <string name="normal_bmi">Ты прекресного телосложения</string>
+    <string name="high_bmi">Не хочешь немного огранить потребление калорий?</string>
+    <string name="very_high_bmi">Да ты прям как Стас Барецкий, тебе тут уже ничего не поможет</string>
+    <string name="back">Назад</string>
+    <string name="bmi">Индекс массы тела: %s</string>
+</resources>
